@@ -45,6 +45,8 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-react": "^7.21.5",
-    "git-commit-msg-linter": "^3.0.0"
+    "git-commit-msg-linter": "^3.0.0",
+    "husky": "^4.3.8",
+    "lint-staged": "^10.5.3"
   }
 }
