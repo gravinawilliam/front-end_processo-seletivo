@@ -1,5 +1,4 @@
 {
   "*.ts": [
-    "yarn test:staged"
   ]
 }
